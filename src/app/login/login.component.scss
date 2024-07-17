@@ -1,0 +1,25 @@
+h2 {
+  font-weight: bold;
+}
+
+.login-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.login-form {
+  display: flex;
+  flex-direction: column;
+  width: 350px;
+}
+
+.login-full-width {
+  width: 100%;
+}
+
+.submit-button {
+  align-self: flex-end;
+}
